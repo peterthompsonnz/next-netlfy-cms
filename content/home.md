@@ -17,6 +17,14 @@ cats:
 
 This page is built with NextJS, and content is managed in Netlify CMS.
 
-Here is a picture of some cats.
+![Scottish Fold](/img/scottish_fold_cats_look_like_owls.jpg "Scottish Fold")
 
-![Five cats sitting in a group](/img/cats.jpg "A happy family")
+Above is a picture of a Scottish Fold cat
+
+![Picture of Lil Bub the cat](/img/lilbub.jpg "Lil Bub")
+
+The picture above is Lil Bub who is apparently a famous (and now dead) cat.
+
+![Tardar Sauce, also known as Grumpy Cat](/img/grumpy-cat-tardar-sauce.jpg)
+
+The picture above is of Tardar Sauce, who is also known as Grumpy Cat. He/she became a millionaire - their owner did anyway.
